@@ -26,6 +26,7 @@
  */
 
 // TODO: Wrap hitman in a class to avoid potential name-collisions.
+/* my name is rock*/
 
 function whack($fn) {
   $hitman = 'rename_function';
